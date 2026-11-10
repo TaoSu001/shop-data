@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "kdf": {
+  "alg": "PBKDF2-SHA256",
+  "iter": 200000,
+  "salt": "TjWkAmpfO9ZlBGYKyjXbjA=="
+ },
+ "check": "HM8xmUF+OwLwzsBV+8JZ68yhcBRpzZs8Qpzm9wdeXj7etA==",
+ "videoDaily": {
+  "7495726593509526198": {
+   "months": {
+    "2026-05": {
+     "rows": 3598,
+     "days": 31,
+     "bytes": 399514
+    },
+    "2026-06": {
+     "rows": 5185,
+     "days": 30,
+     "bytes": 549826
+    },
+    "2026-07": {
+     "rows": 15048,
+     "days": 31,
+     "bytes": 1477794
+    },
+    "2026-08": {
+     "rows": 18318,
+     "days": 31,
+     "bytes": 1849758
+    },
+    "2026-09": {
+     "rows": 14956,
+     "days": 30,
+     "bytes": 1553034
+    },
+    "2026-10": {
+     "rows": 20255,
+     "days": 31,
+     "bytes": 2063375
+    },
+    "2026-11": {
+     "rows": 7009,
+     "days": 8,
+     "bytes": 707958
+    }
+   }
+  }
+ },
+ "updated": "2026-11-10T09:25:48.455897Z"
+}
